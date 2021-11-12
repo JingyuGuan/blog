@@ -22,12 +22,12 @@ module.exports = {
   "themeConfig": {
     "nav": [
       {
-        "text": "首页",
+        "text": "Home",
         "link": "/",
         "icon": "reco-home"
       },
       {
-        "text": "时间轴",
+        "text": "TimeLine",
         "link": "/timeline/",
         "icon": "reco-date"
       },
@@ -42,7 +42,7 @@ module.exports = {
       //   ]
       // },
       {
-        "text": "关于我",
+        "text": "Contact",
         "icon": "reco-message",
         "items": [
           {
